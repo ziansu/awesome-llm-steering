@@ -11,6 +11,7 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 - [Papers](#papers)
 - [Blogs & Posts](#blogs--posts)
 - [Videos](#videos)
+- [Libraries](#libraries)
 - [Other LLM Interpretability Repositories](#other-llm-interpretability-repositories)
 
 
@@ -32,6 +33,8 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 - [ICML 2025] [AxBENCH: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders](https://arxiv.org/abs/2501.17148)
 
 - [NAACL 2025] [Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering](https://arxiv.org/abs/2410.15999)
+
+- [ICLR 2025] [Programming Refusal with Conditional Activation Steering](https://arxiv.org/abs/2409.05907)
 
 - [ICLR 2025] [NNsight and NDIF: Democratizing Access to Open-Weight Foundation Model Internals](https://arxiv.org/abs/2407.14561)
 
@@ -80,6 +83,12 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 ## Videos
 
 - [Inside Gemma 3: Modifying the output through activation hacking](https://www.youtube.com/watch?v=JTUsmSHixSc)
+
+## Libraries
+
+- https://github.com/IBM/activation-steering
+- https://github.com/uber-research/PPLM
+- https://github.com/steering-vectors/steering-vectors
 
 ## Other LLM Interpretability Repositories
 
