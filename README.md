@@ -60,7 +60,7 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 
 - [EMNLP 2023] [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning](https://arxiv.org/abs/2305.14160)
 
-- [ACL 2024] [https://github.com/ziansu/awesome-llm-steering](https://arxiv.org/abs/2305.12798)
+- [ACL 2024] [Word Embeddings Are Steers for Language Models](https://arxiv.org/abs/2305.12798)
 
 - [ICLR 2023] [Mass-Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
 
