@@ -56,7 +56,9 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 
 - [NeurIPS 2023] [Inference-Time Intervention: Eliciting Truthful Answers from a Language Model](https://arxiv.org/abs/2306.03341)
 
-- [EMNLP 2023] [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning]()
+- [EMNLP 2023] [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning](https://arxiv.org/abs/2305.14160)
+
+- [ACL 2024] [https://github.com/ziansu/awesome-llm-steering](https://arxiv.org/abs/2305.12798)
 
 - [ICLR 2023] [Mass-Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
 
