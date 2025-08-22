@@ -20,6 +20,8 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 
 - [arxiv] [KV Cache Steering for Inducing Reasoning in Small Language Models](https://arxiv.org/abs/2507.08799)
 
+- [EMNLP 2025] [AutoSteer: Automating Steering for Safe Multimodal Large Language Models](https://arxiv.org/abs/2507.13255)
+
 - [EMNLP 2025] [Locate-then-Merge: Neuron-Level Parameter Fusion for
  Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/abs/2505.16703)
 
