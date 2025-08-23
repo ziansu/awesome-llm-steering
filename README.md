@@ -2,7 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![GitHub stars](https://img.shields.io/github/stars/ziansu/awesome-llm-steering?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/ziansu/awesome-llm-steering?color=9cf) [![GitHub license](https://img.shields.io/github/license/ziansu/awesome-llm-steering)](https://github.com/ziansu/awesome-llm-steering/blob/main/LICENSE)
 
 
-This list focuses on the *steering of large language models*, which generally refers to techniques to influence and control the model's behavior without retraining it from scratch. There's a bias towards covering more about techniques that leverages LLM internals and interpretability for inference time intervention, as opposed to system prompts or agentic workflow style control.
+This list focuses on the *steering of large language models*, which generally refers to techniques that influence and control the model's behavior without retraining it from scratch. There's an intended bias towards covering more about techniques that leverages LLM internals and interpretability for inference time intervention, as opposed to system prompts or agentic workflow style control.
 
 Some papers in this list do not explicitly mention steering but are intrinsically connected to it, such as certain knowledge editing techniques.
 
@@ -53,9 +53,11 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 
 - [CoRR 2023] [Representation Engineering: A Top-Down Approach to AI Transparency](https://arxiv.org/abs/2310.01405)
 
-- [ICLR 2024] [Towards Best Practices of Activation Patching in Language Models: Metrics and Methods](https://arxiv.org/abs/2309.16042)
+- [ICLR 2024] [Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs](https://arxiv.org/abs/2311.02262)
 
 - [ICLR 2024] [Function Vectors in Large Language Models](https://arxiv.org/abs/2310.15213)
+
+- [ICLR 2024] [Towards Best Practices of Activation Patching in Language Models: Metrics and Methods](https://arxiv.org/abs/2309.16042)
 
 - [arxiv] [Steering language models with activation engineering](https://arxiv.org/abs/2308.10248)
 
@@ -86,6 +88,7 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 
 ## Libraries
 
+- https://github.com/ndif-team/nnsight
 - https://github.com/IBM/activation-steering
 - https://github.com/uber-research/PPLM
 - https://github.com/steering-vectors/steering-vectors
