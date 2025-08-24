@@ -17,14 +17,21 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 
 ## Papers
 
+### Internal
+
 - [arxiv, Anthropic] [Persona Vectors: Monitoring and Controlling Character Traits in Language Models](https://arxiv.org/abs/2507.21509)
 
 - [arxiv] [KV Cache Steering for Inducing Reasoning in Small Language Models](https://arxiv.org/abs/2507.08799)
 
 - [EMNLP 2025] [AutoSteer: Automating Steering for Safe Multimodal Large Language Models](https://arxiv.org/abs/2507.13255)
 
+- [arxiv] [InfoSteer: Steering Information Utility in Language
+ Model Post-Training](https://arxiv.org/abs/2507.05158?)
+
 - [EMNLP 2025] [Locate-then-Merge: Neuron-Level Parameter Fusion for
  Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/abs/2505.16703)
+
+- [ICML 2025 Workshop on Reliable and Responsible Foudnation Models] [Angular Steering: Behavior Control via Rotation in Activation Space](https://openreview.net/forum?id=uAfzFV7mv2)
 
 - [COLM 2025] [μKE: Matryoshka Unstructured Knowledge Editing of Large Language Models](https://arxiv.org/abs/2504.01196)
 
@@ -72,6 +79,12 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 - [NeurIPS 2022] [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)
 
 - [EMNLP 2021] [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)
+
+
+### External
+
+- [COLM 2025] [Self-Improving Model Steering](https://arxiv.org/abs/2504.07081)
+
 
 ## Blogs & Posts
 
