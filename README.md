@@ -85,6 +85,14 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 
 - [COLM 2025] [Self-Improving Model Steering](https://arxiv.org/abs/2504.07081)
 
+### MLLM
+
+- [CVPR 2025] [Steering away from harm: An adaptive approach to defending vision language model against jailbreaks](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Steering_Away_from_Harm_An_Adaptive_Approach_to_Defending_Vision_CVPR_2025_paper.html)
+
+- [ICLR 2025] [Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering](https://openreview.net/forum?id=LBl7Hez0fF)
+
+- [ICLR 2025] [From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment](https://arxiv.org/abs/2502.01828)
+
 
 ## Blogs & Posts
 
