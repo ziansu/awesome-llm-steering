@@ -31,7 +31,7 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 - [EMNLP 2025] [Locate-then-Merge: Neuron-Level Parameter Fusion for
  Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/abs/2505.16703)
 
-- [ICML 2025 Workshop on Reliable and Responsible Foudnation Models] [Angular Steering: Behavior Control via Rotation in Activation Space](https://openreview.net/forum?id=uAfzFV7mv2)
+- [NeurIPS 2025 (Spotlight)] [Angular Steering: Behavior Control via Rotation in Activation Space](https://openreview.net/forum?id=uAfzFV7mv2)
 
 - [COLM 2025] [μKE: Matryoshka Unstructured Knowledge Editing of Large Language Models](https://arxiv.org/abs/2504.01196)
 
