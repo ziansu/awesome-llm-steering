@@ -74,6 +74,8 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 
 - [ACL 2024] [Word Embeddings Are Steers for Language Models](https://arxiv.org/abs/2305.12798)
 
+- [ICLR 2023] [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089)
+
 - [ICLR 2023] [Mass-Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
 
 - [NeurIPS 2022] [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)
