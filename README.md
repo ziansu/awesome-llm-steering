@@ -95,6 +95,8 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 
 - [ICLR 2025] [From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment](https://arxiv.org/abs/2502.01828)
 
+- [EMNLP 2026] [GGSS: Geodesic-Gated Spherical Steering for Inference-Time Debiasing of Generative Vision-Language Models](https://arxiv.org/abs/2608.25375)
+
 
 ## Blogs & Posts
 
