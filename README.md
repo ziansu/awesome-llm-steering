@@ -19,6 +19,8 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 
 ### Internal
 
+- [arxiv] [SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2606.27786)
+
 - [arxiv, Anthropic] [Persona Vectors: Monitoring and Controlling Character Traits in Language Models](https://arxiv.org/abs/2507.21509)
 
 - [arxiv] [KV Cache Steering for Inducing Reasoning in Small Language Models](https://arxiv.org/abs/2507.08799)
@@ -36,6 +38,8 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 - [COLM 2025] [μKE: Matryoshka Unstructured Knowledge Editing of Large Language Models](https://arxiv.org/abs/2504.01196)
 
 - [COLM 2025] [One-shot Optimized Steering Vectors Mediate Safety-relevant Behaviors in LLMs](https://arxiv.org/abs/2502.18862)
+
+- [NeurIPS 2025] [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15543)
 
 - [ICML 2025] [AxBENCH: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders](https://arxiv.org/abs/2501.17148)
 
