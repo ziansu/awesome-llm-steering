@@ -19,6 +19,8 @@ Some papers in this list do not explicitly mention steering but are intrinsicall
 
 ### Internal
 
+- [NeurIPS 2026 (Spotlight)] [Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior](https://arxiv.org/abs/2606.08454)
+
 - [arxiv, Anthropic] [Persona Vectors: Monitoring and Controlling Character Traits in Language Models](https://arxiv.org/abs/2507.21509)
 
 - [arxiv] [KV Cache Steering for Inducing Reasoning in Small Language Models](https://arxiv.org/abs/2507.08799)
